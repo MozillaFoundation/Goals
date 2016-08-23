@@ -21,7 +21,7 @@ Secure funding for 2017+. Opportunities and leads with NSF, Netgain, British Cou
 * [MONTH] WE'RE NOT ON TRACK FOR GOAL [#2] DUE TO... 
 
 #### PLANNING
-* [Backgrounder](hhttps://docs.google.com/document/d/1LiDhWokZBuJssyULc1XSXtVRjLNFBDgkQI8j5qUUIhE/edit)
+* [Backgrounder](https://docs.google.com/document/d/1LiDhWokZBuJssyULc1XSXtVRjLNFBDgkQI8j5qUUIhE/edit)
 * [Project description] (https://github.com/openiotstudio/general/blob/master/README.md)
 * [Publications, reports & resources](https://github.com/openiotstudio/general/tree/master/publications)
 
