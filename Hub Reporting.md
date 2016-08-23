@@ -1,47 +1,50 @@
-##Mozilla Leadership Network Hub Reporting
+##Women & Web Literacy Hub Reporting - H2
 
-**GOAL:** This will help us collect and archive accomplishments, key learnings and next steps for MLN Hubs.
-**FORMAT:** Markdown or text document
-**TIME TO COMPLETE:** 30 mins - 1 hour once per month.
-**TECHNOLOGY:** Your favorite text editor or Markdown viewer. Record and share your findings in your GitHub repository.
-**INSTRUCTIONS**
-Go through the following sections and record the activities/events/projects you participated in, organized or built. 
+#### H2 Goals
+1. Release research papers and develop position paper on how Mozilla will contribute to the women and web literacy space
+2. Launch hub and announce steering committee members 
+3. Host steering committee kick-off and Women and the Web convening 
 
-Copy the format below into your own text file (.txt) or markdown file (.md) with the same title as this one, and save it in your branch and folder.
+#### Accomplishments (What progress did we make towards these goals?)
+* [MONTH] DESCRIPTION OF ACCOMPLISHMENTS
 
-Fill out the bracketed/all-caps terms with your details.
+#### Learnings (What challenges did we face/what went well/what did we learn?)
+* [MONTH] WE LEARNED...
 
-###[NAME] 
-###[AFFILIATION]
-###[CONTACT INFO]
+#### Priorities for next month (What are we focusing on next?)
+* [MONTH] NEXT MONTH WE'LL FOCUS ON...
 
+#### Risks/Blockers (Are we at risk of not reaching our goals? List dependencies)
+* [MONTH] WE'RE NOT ON TRACK FOR GOAL [#2] DUE TO... 
 
-#### EVENTS
+#### PLANNING
+* [Backgrounder](https://docs.google.com/document/d/1Cu_UB5K7BpJakMAZCmLff42umGEPjuPBUEv5RhpUcGo/edit)
+* [Planning Doc](https://docs.google.com/document/d/1jjCyFy8F2-BlTbxPuAyI5WNv9x0ugB2Db1gk2YS8eLQ/edit)
+* [Document 3](link)
+
+#### CONVENINGS
 
 Event | Location | Date | Role
 ----- | -------- | ---- | -----
 [CONFERENCE 1]() | PLACE  | DATE | Attendee/Speaker/Organizer
 [MEETUP 1]() | PLACE | DATE | Attendee/Speaker/Organizer
 
-#### TRAININGS
-* TRAINING 1; [link to talk]()
-* TRAINING 2; [link to talk]()
+#### LEARNING/TRAININGS/OTHER PROJECTS
 
-#### PROJECTS
-TITLE | TECH USED | LINK | DESCRIPTION
+TITLE | LINK | DESCRIPTION
 ----- | --------- | ---- | ------------
-NAME | JS/D3  | [LINK](https://github.com/mozilla/opennews-onboarding) | SOME DESCRIPTION
-NAME 2 | D3 | [LINK](https://github.com/auremoser/pirateplotr) | SOME DESCRIPTION
+PROJECT 1 | [LINK](link) | DESCRIPTION
+PROJECT 2 | [LINK](link) | DESCRIPTION
+TRAINING 1 | [LINK](link) | DESCRIPTION
+CURRICULA | [LINK](link) | DESCRIPTION
 
-#### SPEAKING ENGAGEMENTS
-* TALK 1; [link to talk](); [link to slides]()
-* TALK 2; [link to talk](); [link to slides]()
-
-#### CONNECTIONS
+#### CROSS-HUB AND CROSS-MOCO CONNECTIONS
 We met with or made significant connections with the following teams (MoFo and MoCo).
 
-* PERSON 1
-* PERSON 2
-* ORGANIZATION
-* INSTITUTION
-* GROUP
+* PERSON 1 / BRIEF DESCRIPTION
+* PERSON 2 / BRIEF DESCRIPTION
+* TEAM / BRIEF DESCRIPTION
+* HUB / BRIEF DESCRIPTION
+* 
+#### GRANTS
+(What info would be best to report here - leads? Grants submitted, Grants awarded? Don't want to duplicate if tracked elsewhere, or can link to other doc)
