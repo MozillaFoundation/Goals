@@ -4,9 +4,9 @@
 
 Goal | On-Track/Blocked 
 ----- | -------- | 
-Exhibit prototypes and process at London V&A, Dutch Design Week, Mozfest and print publications | ON-TRACK?
-Inaugurate advisory group to improve membership and processes  | ON-TRACK?
-Secure funding for 2017+. Opportunities and leads with NSF, Netgain, British Council, Creative Scotland, etc. | ON-TRACK?
+Exhibit prototypes and process at London V&A, Mozfest and in print publications | ON-TRACK? Yes
+Inaugurate advisory group to improve membership and processes  | ON-TRACK? Yes
+Secure funding for 2017+. Opportunities and leads with NSF, Netgain, British Council, Creative Scotland, etc. | ON-TRACK? At risk
 
 #### Accomplishments (What progress did we make towards these goals?)
 * [MONTH] DESCRIPTION OF ACCOMPLISHMENTS
@@ -29,23 +29,26 @@ Secure funding for 2017+. Opportunities and leads with NSF, Netgain, British Cou
 
 Event | Location | Date | Role
 ----- | -------- | ---- | -----
-[CONFERENCE 1]() | PLACE  | DATE | Attendee/Speaker/Organizer
-[MEETUP 1]() | PLACE | DATE | Attendee/Speaker/Organizer
+[ThingsCon Camp]() | Berlin, Germany  | September 2-4 | Participant
+[48 Hour Launch]() | Chattanooga, USA | September 9-11 | Co-Organizer
+[London Design Festival]() | London, UK | September 24-25 | Co-Organizer
+[Netgain Salon]() | San Francisco, USA | October 10 | Co-Organizer
+[Mozfest]() | London, UK | October 28 - 30 | Space Wranglers
+[Open Innovation and Open Hardware]() | Shenzhen, China | November 5 - 13 | Co-Organizer
+
 
 #### LEARNING/TRAININGS/OTHER PROJECTS
 
 TITLE | LINK | DESCRIPTION
 ----- | --------- | ---- | ------------
-PROJECT | [LINK](link) | DESCRIPTION
-TRAINING | [LINK](link) | DESCRIPTION
-CURRICULA | [LINK](link) | DESCRIPTION
+Open Prototyping Curriculum | [Medium post](https://medium.com/read-write-participate/deficit-delight-91d922ca1910#.oeiz3kxky) | Reflections on how to apply the open prototying skils to education
 
 #### CROSS-HUB AND CROSS-MOCO CONNECTIONS
 We met with or made significant connections with the following teams (MoFo and MoCo).
 
-* PERSON / BRIEF DESCRIPTION
-* TEAM / BRIEF DESCRIPTION
-* HUB / BRIEF DESCRIPTION
+* MoCo Connected Devices / Furthered collaboration with members of the CD team especially at events. 
+* Rory Hamilton / Researcher at Copenhagen Institute of Interaction Design. 
+* Just Things Foundation / A new Dutch foundation to advocate for more desirable IoT. 
 
 #### GRANTS
 (What info would be best to report here - leads? Grants submitted, Grants awarded? Don't want to duplicate if tracked elsewhere, or can link to other doc)
