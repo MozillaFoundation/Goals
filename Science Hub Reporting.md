@@ -4,21 +4,24 @@
 
 Goal | On-Track/Blocked 
 ----- | -------- | 
-Onboard 2nd class of fellows (joint onboarding with Open Web Fellows) | ON-TRACK?
-Launch Study Group onboarding | ON-TRACK?
-Ship v1 of Open Data curriculum | ON-TRACK?
+Onboard 2nd class of fellows (joint onboarding with Open Web Fellows) | DONE
+Launch Study Group onboarding | ON TRACK
+Ship v1 of Open Data curriculum | AT RISK
 
 #### Accomplishments (What progress did we make towards these goals?)
-* [MONTH] DESCRIPTION OF ACCOMPLISHMENTS
+* [SEPT] Successfully completed a week of joint on-boarding of MLN Fellows (Open Web and Science).  There was only one afternoon where the two groups split apart to discuss program specific issues.
+* [SEPT] 
 
 #### Learnings (What challenges did we face/what went well/what did we learn?)
-* [MONTH] WE LEARNED...
+* [SEPT] The two Fellows programs have been operating on very different schedules.  We worked hard to bring them more in sync and managed to schedule the onboarding for the same week.  Based off feedback from the Fellows on the first day of onboarding, we learned there is a surprising amount of overlap in interests / needs of the two programs and were able to revamp the onboarding on the fly to take advantage of that.  Now the challenge is to figure out how to expand that to provide more opportunities for program collaboration throughout the Fellowship.
 
 #### Priorities for next month (What are we focusing on next?)
-* [MONTH] NEXT MONTH WE'LL FOCUS ON...
+* [SEPT-OCT] Over the next couple months we'll work with the Advocacy team to fine tune the joint onboarding as well as look for more opportunities to bring the two programs more inline and collaborative throughout the Fellowships.
+* [OCT-NOV] Leverage the expertise in our new Fellows cohort to make progress on the Open Data Curriculum and test before end of year.
+* [OCT-DEC] We are looking at ways to further expand the network with an eye toward opportunities for collaborations and partnerships that are of benefit to all of MLN.  This has already shown up in our Advisory Group nominations as well as who we are considering to bring as volunteers to the next All Hands.
 
 #### Risks/Blockers (Are we at risk of not reaching our goals? List dependencies)
-* [MONTH] WE'RE NOT ON TRACK FOR GOAL [#2] DUE TO... 
+* [SEPT] We are not on track for meeting Goal 3 because of the need for focus on the Fellows program, OLTS, and Study Group Orientation for the last few months.  The lead on that project is also now juggling several new responsibilities.  
 
 #### PLANNING
 * [H2 Plan](https://docs.google.com/document/d/1ylCX0ldm4DhLJS04JixIscR46YPSOzkrqErhb2zvbGM/edit)
@@ -47,4 +50,7 @@ We met with or made significant connections with the following teams (MoFo and M
 * HUB / BRIEF DESCRIPTION
 
 #### GRANTS
-(What info would be best to report here - leads? Grants submitted, Grants awarded? Don't want to duplicate if tracked elsewhere, or can link to other doc)
+* [AUG] Sloan - Submitted new proposal to Sloan asking for $750K to support focus on community building and open innovation catalyzation through convenings, mentorship, and mini-grants.
+* [SEP] Siegel - Will submit one-page proposal for 3-year partnership.  Details still being worked out.
+* [SEP] Robert Wood Johnson Foundation- Working on proposal for this CfP: http://www.rwjf.org/en/library/funding-opportunities/2016/increasing--openness--and--transparency--in--research.html
+* [OCT] Laura & John Arnold Foundation - Work on proposal for this CfP: http://www.arnoldfoundation.org/wp-content/uploads/ST-LOI-Open-Science-FINAL.pdf 
