@@ -4,21 +4,30 @@
 
 Goal | On-Track/Blocked 
 ----- | -------- | 
-Build a braintrust to help us run truly global campaigns | ON-TRACK?
-Relaunch Maker Party (MoFo + MoCo), focus on copyright and innovation | ON-TRACK?
-Joint onboarding of Fellows with Science; host org onboarding | ON-TRACK?
+Build a champions/executive director program | ON-TRACK
+Relaunch Maker Party (MoFo + MoCo), focus on copyright and innovation | ON-TRACK
+Joint onboarding of Fellows with Science; host org onboarding | Done. 
 
 #### Accomplishments (What progress did we make towards these goals?)
-* [MONTH] DESCRIPTION OF ACCOMPLISHMENTS
+* September -- We have a draft network/hub plan (Still iterating - we'll share the second draft) 
+* September -- Awesome onboarding with Science of the Open Web Fellows. 
+* August till November - Working on Maker Party accross hubs and with participation 
+
 
 #### Learnings (What challenges did we face/what went well/what did we learn?)
-* [MONTH] WE LEARNED...
+* Collaborating really benefits our work 
+* There's a gap when it comes to advocacy training and skills that we can help with 
+* Working with the hubs is a great way to source new campaign areas. 
+*
 
 #### Priorities for next month (What are we focusing on next?)
-* [MONTH] NEXT MONTH WE'LL FOCUS ON...
+* October - Mozfest 
+* October - Women and Girls convening with advocacy 
+* October - second draft of the network plan 
+
 
 #### Risks/Blockers (Are we at risk of not reaching our goals? List dependencies)
-* [MONTH] WE'RE NOT ON TRACK FOR GOAL [#2] DUE TO... 
+* We are on track for our goals - we do need to prioritise resourcing to ensure sustainability. 
 
 #### PLANNING
 * [Backgrounder](https://docs.google.com/document/d/1GY3BGcq3OlNqvaoyMxellyD3g35WQTF7qPo5stumGD4/edit)
