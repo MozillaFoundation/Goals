@@ -17,6 +17,7 @@ Ship v1 of Open Data curriculum | AT RISK
 
 #### Priorities for next month (What are we focusing on next?)
 * [SEPT-OCT] Over the next couple months we'll work with the Advocacy team to fine tune the joint onboarding as well as look for more opportunities to bring the two programs more inline and collaborative throughout the Fellowships.
+* [OCT] Strategic planning for 2017 - to incl development of a Communication Plan, discussion on funding needs for coming year, opportunities for cross-MLN synchronization (Fellows, Global Sprint, Website, Study Groups/Clubs)
 * [OCT-NOV] Finish up Study Group materials.  Early October will make training materials publicly available and get feedback to iterate on materials.  Goal is to have materials in polished form in January for a structured and mentored orientation with Study Group Leads.
 * [OCT-DEC] Do some planning around Study Group cohort model and marketing of new orientation materials and training.
 * [OCT-NOV] Leverage the expertise in our new Fellows cohort to make progress on the Open Data Curriculum and test before end of year.
