@@ -51,8 +51,7 @@ TITLE | LINK | DESCRIPTION
 Collaborative Curriculum Development Activity | https://docs.google.com/document/d/1MmCc4a38F7aGR5N16l654MyAb7MZ2N7wbrM-t_lnazg/edit | A short workshop format for collaborative creation of user-centered learning resources. Co-developed with Julia Vallera for Ada Lovelace Day at Libre Learn.
 Open Data Curriculum | https://github.com/mozillascience/open-data-training | Series of primers, handouts, and train-the-trainer instructor guides for teaching about open data with no previous experience assumed.
 Open Leadership Training Series | https://drive.google.com/drive/folders/0B0RBD2BW-srIYjdxcmVLTTlMdms?usp=sharing | Online training for new open project leads, covering the basics of working open, from writing a great README to collaborating online with GitHub to building communities of contributors and running great community events.
-Study Group Orientation Series | https://drive.google.com/drive/folders/0BytjEIvMn7SRVGNndjZyRGFEWlE?usp=sharing |
-Online training for Study Group Leads, developed collaboratively (community members contributing video, content, editing, and feedback on various sections).
+Study Group Orientation Series | https://drive.google.com/drive/folders/0BytjEIvMn7SRVGNndjZyRGFEWlE?usp=sharing | Online training for Study Group Leads, developed collaboratively (community members contributing video, content, editing, and feedback on various sections).
 
 #### CROSS-HUB AND CROSS-MOCO CONNECTIONS
 We met with or made significant connections with the following teams (MoFo and MoCo).
