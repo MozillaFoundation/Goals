@@ -50,9 +50,9 @@ CURRICULA | [LINK](link) | DESCRIPTION
 #### CROSS-HUB AND CROSS-MOCO CONNECTIONS
 We met with or made significant connections with the following teams (MoFo and MoCo).
 
-* PERSON / BRIEF DESCRIPTION
-* TEAM / BRIEF DESCRIPTION
-* HUB / BRIEF DESCRIPTION
+* Advocacy and Science are partnering with Privacy International for a joint fellows training at Mozfest. 
+* Advocacy and the Women and Girls hub are partnering for a joint training of community members.
+* All the hubs are working together for Maker Party and the copyright camapign - alongside participation, marketing and policy. 
 
 #### GRANTS
 (What info would be best to report here - leads? Grants submitted, Grants awarded? Don't want to duplicate if tracked elsewhere, or can link to other doc)
