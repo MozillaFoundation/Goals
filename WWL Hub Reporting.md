@@ -34,6 +34,7 @@ Host steering committee kick-off and Women and the Web convening  | No committee
 
 #### Risks/Blockers (Are we at risk of not reaching our goals? List dependencies)
 * [OCT] Large amount of proposals that need to go out this month: OAK, UN Women, Mozilla, WEF plus there is a large need to look for longer-term funding outside of these places
+* [Blocker] Internal/External funding. 
 * [Blocker] Capacity. Need a network manager. 
 
 #### PLANNING
